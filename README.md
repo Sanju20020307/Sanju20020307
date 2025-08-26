@@ -2,8 +2,8 @@
 
 **About Me**
 
-**Skills**
-**Skills & Tools
+
+**Skills & Tools**
 ### Languages
 - HTML5
 - CSS3
